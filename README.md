@@ -1,4 +1,4 @@
-# Short-Answer-Grading
+# Automatic-Answer-Grading
 
 Given an answer to a question from selected set of questions, our aim is to evaluate it and give a qualitative score.
 The subjective nature of an answer makes it difficult to grade it uniformly across many human graders. In addition, human graders tend to unknowingly grade an answer with their own biases towards the subject matter presented.
