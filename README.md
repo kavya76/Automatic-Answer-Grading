@@ -11,7 +11,9 @@ The dataset used is the Kaggle’s Automatic Essay Scoring dataset,can be downlo
 #Testing
 
 cd website
+
 python manage.py migrate
+
 python manage.py runserver
 
 #Observations and Results 
