@@ -20,7 +20,7 @@ python manage.py runserver
 
 The models were tested using kappa statistic which is intending to compare labelling by different human annotators, not a classifier versus a ground truth. The kappa score is a number between -1 and 1. Scores above .8 are generally considered good agreement,zero or lower means no agreement
 For this project we have used an Algorithm in which we Combine all the topics into a single model and predicted the score using bi-directional LSTM.		
-kappa score obtained is 0.9766
+kappa score obtained is 0.74
 
 # Future Work
 
